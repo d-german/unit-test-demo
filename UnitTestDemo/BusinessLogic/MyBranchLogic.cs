@@ -2,7 +2,6 @@
 {
     public static class MyBranchLogic
     {
-
         public static bool BranchLogic(bool a, bool b)
         {
             var result = false;
@@ -17,6 +16,5 @@
 
             return result;
         }
-
     }
 }
