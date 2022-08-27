@@ -4,7 +4,7 @@ namespace Controller
 {
     internal class Program
     {
-        static void Main(string[] args)
+        private static void Main()
         {
             var res = MyBranchLogic.BranchLogic(true, true);
 
